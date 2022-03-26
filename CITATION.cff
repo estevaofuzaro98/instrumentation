@@ -3,7 +3,7 @@ message: "If you use this software, please cite it as below."
 authors:
     - family-names: Fuzaro de Almeida
       given-names: Estev{\~a}o
-title: "instrumentation-app"
+title: "Instrumentation App"
 version: 1.0.0
 date-released: 2021-07-06
 url: "https://github.com/estevaofuzaro98/instrumentation-app"
